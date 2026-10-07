@@ -33,7 +33,7 @@ Tenho interesse em transformar ideias em interfaces funcionais, bonitas e respon
 
 Projeto desenvolvido com React + TypeScript consumindo uma API pública do Studio Ghibli.
 
-<br> <a href="https://github.com/Lettwcia/desafio---api"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </td> <td width="50%">
+<br> <a href="https://github.com/ana-letiicia/desafio---api"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </td> <td width="50%">
 💻 Em desenvolvimento...
 
 Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenvolvimento web.
@@ -50,11 +50,11 @@ Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenv
  🐍 Contribution System
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
  🌐 Connect With Me
-<div align="center"> <a href="https://github.com/Lettwcia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="https://www.linkedin.com/in/analtícia/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="https://www.instagram.com/lettwciaremastered/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
+<div align="center"> <a href="https://github.com/ana-letiicia"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <!-- Adicione suas outras redes aqui --> <a href="https://www.linkedin.com/in/analtícia/"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/> </a> <a href="https://www.instagram.com/lettwciaremastered/"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00FF"/> </a> </div>
 <div align="center">
   
 
-<br> <img src="https://komarev.com/ghpvc/?username=Lettwcia&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<br> <img src="https://komarev.com/ghpvc/?username=ana-letiicia&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br><br>
 
