@@ -40,11 +40,11 @@ Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenv
 
 <br> <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-8A2BE2?style=for-the-badge"/> </td> </tr> </table> </div>
 # 📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lettwcia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lettwcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ana-letiicia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-letiicia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/> </div>
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Lettwcia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ana-letiicia&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/> </div>
  📈 Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lettwcia&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ana-letiicia&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true"/> </div>
  🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Lettwcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div>
  🐍 Contribution System
