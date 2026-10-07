@@ -46,7 +46,7 @@ Novos projetos estão sendo desenvolvidos enquanto avanço nos estudos de desenv
  📈 Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ana-letiicia&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true"/> </div>
  🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Lettwcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ana-letiicia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </div>
  🐍 Contribution System
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </div>
  🌐 Connect With Me
